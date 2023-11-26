@@ -1,0 +1,458 @@
+
+ ----jGRASP exec: java CensusProblemClient
+
+							Page # 1
+
+			Original List of Records
+
+----------------------------------------------------------------------------
+Line #	 National		    Median household Income
+		   Rank	     Maryland		  (in dollars)	     Percent
+		2000  1990   County            2000	   1990	     change
+----------------------------------------------------------------------------
+  1.	31    28    Calvert           65945	  61795        6.7
+  2.	849   690   Caroline          38832	  36030        7.8
+  3.	2123  1889  Allegany          30821	  27967       10.2
+  4.	1522  1126  Dorchester        34077	  32349        5.3
+  5.	72    84    Frederick         60276	  53714       12.2
+  6.	1813  1570  Garrett           32238	  29507        9.3
+  7.	60    45    AnneArundel       61768	  58601        5.4
+  8.	2282  1292  BaltimoreCity     30078	  31210       -3.6
+  9.	189   118   Baltimore         50667	  50410        0.5
+ 10.	13    8     Montgomery        71551	  70208        1.9
+ 11.	10    6     Howard            74167	  70544        5.1
+ 12.	74    75    Carroll           60021	  55007        9.1
+ 13.	194   175   Cecil             50510	  46753        8.0
+ 14.	55    32    Charles           62199	  60247        3.2
+ 15.	97    82    Harford           57234	  54101        5.8
+ 16.	742   459   Kent              39869	  39075        2.0
+ 17.	120   66    PrinceGeorge's    55256	  50869        8.6
+ 18.	98    111   QueenAnne's       57037	  50869       12.1
+ 19.	127   142   St.Mary's         54706	  48231       13.4
+ 20.	2309  1429  Somerset          29903	  30346       -1.5
+ 21.	447   308   Talbot            43532	  41387        5.2
+ 22.	665   492   Washington        40617	  38462        5.6
+ 23.	828   594   Wicomico          39035	  37009        5.5
+ 24.	662   690   Worcester         40650	  35807       13.5
+
+	 Total Number of Data Lines Processed  = 24
+
+
+
+----------------------------------------------------------------------------
+
+
+
+						Page # 2
+
+			Alphabetized List of Records
+
+----------------------------------------------------------------------------
+Line #	 National		    Median household Income
+		   Rank	     Maryland		  (in dollars)	     Percent
+		2000  1990   County            2000	   1990	     change
+----------------------------------------------------------------------------
+  1.	2123  1889  Allegany          30821	  27967       10.2
+  2.	60    45    AnneArundel       61768	  58601        5.4
+  3.	189   118   Baltimore         50667	  50410        0.5
+  4.	2282  1292  BaltimoreCity     30078	  31210       -3.6
+  5.	31    28    Calvert           65945	  61795        6.7
+  6.	849   690   Caroline          38832	  36030        7.8
+  7.	74    75    Carroll           60021	  55007        9.1
+  8.	194   175   Cecil             50510	  46753        8.0
+  9.	55    32    Charles           62199	  60247        3.2
+ 10.	1522  1126  Dorchester        34077	  32349        5.3
+ 11.	72    84    Frederick         60276	  53714       12.2
+ 12.	1813  1570  Garrett           32238	  29507        9.3
+ 13.	97    82    Harford           57234	  54101        5.8
+ 14.	10    6     Howard            74167	  70544        5.1
+ 15.	742   459   Kent              39869	  39075        2.0
+ 16.	13    8     Montgomery        71551	  70208        1.9
+ 17.	120   66    PrinceGeorge's    55256	  50869        8.6
+ 18.	98    111   QueenAnne's       57037	  50869       12.1
+ 19.	2309  1429  Somerset          29903	  30346       -1.5
+ 20.	127   142   St.Mary's         54706	  48231       13.4
+ 21.	447   308   Talbot            43532	  41387        5.2
+ 22.	665   492   Washington        40617	  38462        5.6
+ 23.	828   594   Wicomico          39035	  37009        5.5
+ 24.	662   690   Worcester         40650	  35807       13.5
+
+	 Total Number of Data Lines Processed  = 24
+
+
+
+----------------------------------------------------------------------------
+
+
+
+						Page # 3
+
+			List of Records sorted by Highest Rank
+
+----------------------------------------------------------------------------
+Line #	 National		    Median household Income
+		   Rank	     Maryland		  (in dollars)	     Percent
+		2000  1990   County            2000	   1990	     change
+----------------------------------------------------------------------------
+  1.	10    6     Howard            74167	  70544        5.1
+  2.	13    8     Montgomery        71551	  70208        1.9
+  3.	31    28    Calvert           65945	  61795        6.7
+  4.	55    32    Charles           62199	  60247        3.2
+  5.	60    45    AnneArundel       61768	  58601        5.4
+  6.	72    84    Frederick         60276	  53714       12.2
+  7.	74    75    Carroll           60021	  55007        9.1
+  8.	97    82    Harford           57234	  54101        5.8
+  9.	98    111   QueenAnne's       57037	  50869       12.1
+ 10.	120   66    PrinceGeorge's    55256	  50869        8.6
+ 11.	127   142   St.Mary's         54706	  48231       13.4
+ 12.	189   118   Baltimore         50667	  50410        0.5
+ 13.	194   175   Cecil             50510	  46753        8.0
+ 14.	447   308   Talbot            43532	  41387        5.2
+ 15.	662   690   Worcester         40650	  35807       13.5
+ 16.	665   492   Washington        40617	  38462        5.6
+ 17.	742   459   Kent              39869	  39075        2.0
+ 18.	828   594   Wicomico          39035	  37009        5.5
+ 19.	849   690   Caroline          38832	  36030        7.8
+ 20.	1522  1126  Dorchester        34077	  32349        5.3
+ 21.	1813  1570  Garrett           32238	  29507        9.3
+ 22.	2123  1889  Allegany          30821	  27967       10.2
+ 23.	2282  1292  BaltimoreCity     30078	  31210       -3.6
+ 24.	2309  1429  Somerset          29903	  30346       -1.5
+
+	 Total Number of Data Lines Processed  = 24
+
+
+
+----------------------------------------------------------------------------
+
+
+
+						Page # 4
+
+			List of Records sorted by lowest percentage
+
+----------------------------------------------------------------------------
+Line #	 National		    Median household Income
+		   Rank	     Maryland		  (in dollars)	     Percent
+		2000  1990   County            2000	   1990	     change
+----------------------------------------------------------------------------
+  1.	10    6     Howard            74167	  70544       13.5
+  2.	13    8     Montgomery        71551	  70208       13.4
+  3.	31    28    Calvert           65945	  61795       12.2
+  4.	55    28    Charles           62199	  60247       12.1
+  5.	60    28    AnneArundel       61768	  58601       10.2
+  6.	72    28    Frederick         60276	  53714        9.3
+  7.	74    28    Carroll           60021	  55007        9.1
+  8.	97    28    Harford           57234	  54101        8.6
+  9.	98    28    QueenAnne's       57037	  50869        8.0
+ 10.	120   28    PrinceGeorge's    55256	  50869        7.8
+ 11.	127   28    St.Mary's         54706	  48231        6.7
+ 12.	189   28    Baltimore         50667	  50410        5.8
+ 13.	194   175   Cecil             50510	  46753        5.6
+ 14.	447   175   Talbot            43532	  41387        5.5
+ 15.	662   175   Worcester         40650	  35807        5.4
+ 16.	665   175   Washington        40617	  38462        5.3
+ 17.	742   175   Kent              39869	  39075        5.2
+ 18.	828   175   Wicomico          39035	  37009        5.1
+ 19.	849   175   Caroline          38832	  36030        3.2
+ 20.	1522  175   Dorchester        34077	  32349        2.0
+ 21.	1813  175   Garrett           32238	  29507        1.9
+ 22.	2123  175   Allegany          30821	  27967        0.5
+ 23.	2282  175   BaltimoreCity     30078	  31210       -1.5
+ 24.	2309  1429  Somerset          29903	  30346       -3.6
+
+	 Total Number of Data Lines Processed  = 24
+
+
+
+----------------------------------------------------------------------------
+
+
+
+						Page # 5
+
+			Various top rankings from the list.
+
+----------------------------------------------------------------------------
+Line #	 National		    Median household Income
+		   Rank	     Maryland		  (in dollars)	     Percent
+		2000  1990   County            2000	   1990	     change
+----------------------------------------------------------------------------
+	Median household incomes that decreased from 1990 to 2000
+
+ 23.	2282  175   BaltimoreCity     30078	  31210       -1.5
+ 24.	2309  1429  Somerset          29903	  30346       -3.6
+
+----------------------------------------------------------------------------
+
+	Highest increases in  median household income in 2000
+
+  1.	72    28    Frederick         60276	  53714        9.3
+  2.	127   28    St.Mary's         54706	  48231        6.7
+
+----------------------------------------------------------------------------
+
+	Lowest nationwide ranks among Households (2000)
+
+  1.	2309  1429  Somerset          29903	  30346       -3.6
+  2.	2282  175   BaltimoreCity     30078	  31210       -1.5
+
+----------------------------------------------------------------------------
+
+
+	Search for a County using by it's ranking
+
+
+----------------------------------------------------------------------------
+
+
+ Enter rank # to search for, or q to quit :25
+
+	County Not Found.
+
+ Enter rank # to search for, or q to quit :10
+
+	County Found : Howard
+
+ Enter rank # to search for, or q to quit :1813
+
+	County Found : Garrett
+
+ Enter rank # to search for, or q to quit :2000
+
+	County Not Found.
+
+ Enter rank # to search for, or q to quit :q
+
+ Quit Chosen, Program Ending.
+
+ ----jGRASP: operation complete.
+
+ ----jGRASP exec: java CensusProblemClient
+
+							Page # 1
+
+			Original List of Records
+
+----------------------------------------------------------------------------
+Line #	 National		    Median household Income
+		   Rank	     Maryland		  (in dollars)	     Percent
+		2000  1990   County            2000	   1990	     change
+----------------------------------------------------------------------------
+  1.	31    28    Calvert           65945	  61795        6.7
+  2.	849   690   Caroline          38832	  36030        7.8
+  3.	2123  1889  Allegany          30821	  27967       10.2
+  4.	1522  1126  Dorchester        34077	  32349        5.3
+  5.	72    84    Frederick         60276	  53714       12.2
+  6.	1813  1570  Garrett           32238	  29507        9.3
+  7.	60    45    AnneArundel       61768	  58601        5.4
+  8.	2282  1292  BaltimoreCity     30078	  31210       -3.6
+  9.	189   118   Baltimore         50667	  50410        0.5
+ 10.	13    8     Montgomery        71551	  70208        1.9
+ 11.	10    6     Howard            74167	  70544        5.1
+ 12.	74    75    Carroll           60021	  55007        9.1
+ 13.	194   175   Cecil             50510	  46753        8.0
+ 14.	55    32    Charles           62199	  60247        3.2
+ 15.	97    82    Harford           57234	  54101        5.8
+ 16.	742   459   Kent              39869	  39075        2.0
+ 17.	120   66    PrinceGeorge's    55256	  50869        8.6
+ 18.	98    111   QueenAnne's       57037	  50869       12.1
+ 19.	127   142   St.Mary's         54706	  48231       13.4
+ 20.	2309  1429  Somerset          29903	  30346       -1.5
+ 21.	447   308   Talbot            43532	  41387        5.2
+ 22.	665   492   Washington        40617	  38462        5.6
+ 23.	828   594   Wicomico          39035	  37009        5.5
+ 24.	662   690   Worcester         40650	  35807       13.5
+
+	 Total Number of Data Lines Processed  = 24
+
+
+
+----------------------------------------------------------------------------
+
+
+
+						Page # 2
+
+			Alphabetized List of Records
+
+----------------------------------------------------------------------------
+Line #	 National		    Median household Income
+		   Rank	     Maryland		  (in dollars)	     Percent
+		2000  1990   County            2000	   1990	     change
+----------------------------------------------------------------------------
+  1.	2123  1889  Allegany          30821	  27967       10.2
+  2.	60    45    AnneArundel       61768	  58601        5.4
+  3.	189   118   Baltimore         50667	  50410        0.5
+  4.	2282  1292  BaltimoreCity     30078	  31210       -3.6
+  5.	31    28    Calvert           65945	  61795        6.7
+  6.	849   690   Caroline          38832	  36030        7.8
+  7.	74    75    Carroll           60021	  55007        9.1
+  8.	194   175   Cecil             50510	  46753        8.0
+  9.	55    32    Charles           62199	  60247        3.2
+ 10.	1522  1126  Dorchester        34077	  32349        5.3
+ 11.	72    84    Frederick         60276	  53714       12.2
+ 12.	1813  1570  Garrett           32238	  29507        9.3
+ 13.	97    82    Harford           57234	  54101        5.8
+ 14.	10    6     Howard            74167	  70544        5.1
+ 15.	742   459   Kent              39869	  39075        2.0
+ 16.	13    8     Montgomery        71551	  70208        1.9
+ 17.	120   66    PrinceGeorge's    55256	  50869        8.6
+ 18.	98    111   QueenAnne's       57037	  50869       12.1
+ 19.	2309  1429  Somerset          29903	  30346       -1.5
+ 20.	127   142   St.Mary's         54706	  48231       13.4
+ 21.	447   308   Talbot            43532	  41387        5.2
+ 22.	665   492   Washington        40617	  38462        5.6
+ 23.	828   594   Wicomico          39035	  37009        5.5
+ 24.	662   690   Worcester         40650	  35807       13.5
+
+	 Total Number of Data Lines Processed  = 24
+
+
+
+----------------------------------------------------------------------------
+
+
+
+						Page # 3
+
+			List of Records sorted by Highest Rank
+
+----------------------------------------------------------------------------
+Line #	 National		    Median household Income
+		   Rank	     Maryland		  (in dollars)	     Percent
+		2000  1990   County            2000	   1990	     change
+----------------------------------------------------------------------------
+  1.	10    6     Howard            74167	  70544        5.1
+  2.	13    8     Montgomery        71551	  70208        1.9
+  3.	31    28    Calvert           65945	  61795        6.7
+  4.	55    32    Charles           62199	  60247        3.2
+  5.	60    45    AnneArundel       61768	  58601        5.4
+  6.	72    84    Frederick         60276	  53714       12.2
+  7.	74    75    Carroll           60021	  55007        9.1
+  8.	97    82    Harford           57234	  54101        5.8
+  9.	98    111   QueenAnne's       57037	  50869       12.1
+ 10.	120   66    PrinceGeorge's    55256	  50869        8.6
+ 11.	127   142   St.Mary's         54706	  48231       13.4
+ 12.	189   118   Baltimore         50667	  50410        0.5
+ 13.	194   175   Cecil             50510	  46753        8.0
+ 14.	447   308   Talbot            43532	  41387        5.2
+ 15.	662   690   Worcester         40650	  35807       13.5
+ 16.	665   492   Washington        40617	  38462        5.6
+ 17.	742   459   Kent              39869	  39075        2.0
+ 18.	828   594   Wicomico          39035	  37009        5.5
+ 19.	849   690   Caroline          38832	  36030        7.8
+ 20.	1522  1126  Dorchester        34077	  32349        5.3
+ 21.	1813  1570  Garrett           32238	  29507        9.3
+ 22.	2123  1889  Allegany          30821	  27967       10.2
+ 23.	2282  1292  BaltimoreCity     30078	  31210       -3.6
+ 24.	2309  1429  Somerset          29903	  30346       -1.5
+
+	 Total Number of Data Lines Processed  = 24
+
+
+
+----------------------------------------------------------------------------
+
+
+
+						Page # 4
+
+			List of Records sorted by lowest percentage
+
+----------------------------------------------------------------------------
+Line #	 National		    Median household Income
+		   Rank	     Maryland		  (in dollars)	     Percent
+		2000  1990   County            2000	   1990	     change
+----------------------------------------------------------------------------
+  1.	10    6     Howard            74167	  70544       13.5
+  2.	13    8     Montgomery        71551	  70208       13.4
+  3.	31    28    Calvert           65945	  61795       12.2
+  4.	55    28    Charles           62199	  60247       12.1
+  5.	60    28    AnneArundel       61768	  58601       10.2
+  6.	72    28    Frederick         60276	  53714        9.3
+  7.	74    28    Carroll           60021	  55007        9.1
+  8.	97    28    Harford           57234	  54101        8.6
+  9.	98    28    QueenAnne's       57037	  50869        8.0
+ 10.	120   28    PrinceGeorge's    55256	  50869        7.8
+ 11.	127   28    St.Mary's         54706	  48231        6.7
+ 12.	189   28    Baltimore         50667	  50410        5.8
+ 13.	194   175   Cecil             50510	  46753        5.6
+ 14.	447   175   Talbot            43532	  41387        5.5
+ 15.	662   175   Worcester         40650	  35807        5.4
+ 16.	665   175   Washington        40617	  38462        5.3
+ 17.	742   175   Kent              39869	  39075        5.2
+ 18.	828   175   Wicomico          39035	  37009        5.1
+ 19.	849   175   Caroline          38832	  36030        3.2
+ 20.	1522  175   Dorchester        34077	  32349        2.0
+ 21.	1813  175   Garrett           32238	  29507        1.9
+ 22.	2123  175   Allegany          30821	  27967        0.5
+ 23.	2282  175   BaltimoreCity     30078	  31210       -1.5
+ 24.	2309  1429  Somerset          29903	  30346       -3.6
+
+	 Total Number of Data Lines Processed  = 24
+
+
+
+----------------------------------------------------------------------------
+
+
+
+						Page # 5
+
+			Various top rankings from the list.
+
+----------------------------------------------------------------------------
+Line #	 National		    Median household Income
+		   Rank	     Maryland		  (in dollars)	     Percent
+		2000  1990   County            2000	   1990	     change
+----------------------------------------------------------------------------
+	Median household incomes that decreased from 1990 to 2000
+
+ 23.	2282  175   BaltimoreCity     30078	  31210       -1.5
+ 24.	2309  1429  Somerset          29903	  30346       -3.6
+
+----------------------------------------------------------------------------
+
+	Highest increases in  median household income in 2000
+
+  1.	72    28    Frederick         60276	  53714        9.3
+  2.	127   28    St.Mary's         54706	  48231        6.7
+
+----------------------------------------------------------------------------
+
+	Lowest nationwide ranks among Households (2000)
+
+  1.	2309  1429  Somerset          29903	  30346       -3.6
+  2.	2282  175   BaltimoreCity     30078	  31210       -1.5
+
+----------------------------------------------------------------------------
+
+
+	Search for a County by it's ranking
+
+
+----------------------------------------------------------------------------
+
+
+ Enter rank # to search, or q to quit :25
+
+	County Not Found.
+
+ Enter rank # to search, or q to quit :10
+
+	County Found : Howard
+
+ Enter rank # to search, or q to quit :1813
+
+	County Found : Garrett
+
+ Enter rank # to search, or q to quit :2000
+
+	County Not Found.
+
+ Enter rank # to search, or q to quit :q
+
+ Quit Chosen, Program Ending.
+
+ ----jGRASP: operation complete.

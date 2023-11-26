@@ -1,0 +1,26 @@
+    	  31	     28	           Calvert 		65945		61795	   
+   	 849	    690	           Caroline 		38832		36030	   
+	2123	   1889	   	   Allegany 		30821		27967	   
+	1522	   1126    	   Dorchester 		34077		32349	   
+    	  72	     84	   	   Frederick 		60276		53714	   
+	1813	    1570	   Garrett 		32238		29507	   
+    	  60	      45	   AnneArundel 		61768		58601	   
+	2282	    1292	   BaltimoreCity	30078		31210
+  	189	     118	   Baltimore 		50667		50410	   
+  	 13	       8	   Montgomery 		71551		70208	   
+  	 10	       6	   Howard 		74167		70544	   
+  	 74	      75	   Carroll 		60021		55007	   
+  	194	     175	   Cecil 		50510		46753	   
+  	 55	      32	   Charles 		62199		60247	   
+ 	 97	      82	   Harford 		57234		54101	   
+	742	     459	   Kent 		39869		39075	   
+	120	      66	   PrinceGeorge's 	55256		50869	   
+  	 98	     111	   QueenAnne's    	 57037		50869	   
+ 	127	     142	   St.Mary's 		54706		48231	   
+	2309	    1429	   Somerset 		29903		30346	   
+ 	 447	     308	   Talbot		43532		41387	   
+ 	 665	     492	   Washington 		40617		38462	   
+ 	 828	     594	   Wicomico 		39035		37009	   
+ 	 662	     690	   Worcester 		40650		35807	   
+	   
+  
